@@ -2,9 +2,9 @@
 <h1 align="center">Hey, I'm Pedro.</h1>
 <h2 align="center">Software developer</h2>
 
-- 🔭 I’m currently working at Info W Software, as C# and .NET Developer
+- 🔭 I’m currently working at Info W Software, as **C# and .NET** Developer
 
-- 🌱 I’m currently learning **C#, <span>ASP.</span>NET, Razor, Postgres**
+- 🌱 I’m currently learning **C#, <span>ASP.</span>NET, Razor, Postgres and Ruby on Rails**
 
 - 👯 I’m currently interested on **ASP** and **Ruby on Rails** projects
 
