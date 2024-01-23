@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey, I'm Pedro.</h1>
-<h2 align="center">Software developer</h2>
+<h2 align="center">Web developer</h2>
 
 - 🔭 I’m currently working at Info W Software, as **C# and .NET** Developer
 
