@@ -8,7 +8,9 @@
 
 - 👯 I’m currently interested on **ASP** and **Ruby on Rails** projects
 
-- 👨‍💻 All of my projects are available here, at [github.com/santiagvs](github.com/santiagvs)
+- 👨‍💻 All of my projects are available here, at [github.com/santiagvs](github.com/santiagvs).
+
+- But also check [my Angular project](https://github.com/Squad13Porto/FrontAngularColetiva) on Squad 13, a simple university project.
 
 - 💬 You can ask me about **Linux basics**
 
