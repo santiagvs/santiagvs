@@ -2,17 +2,19 @@
 <h1 align="center">Hey, I'm Pedro.</h1>
 <h2 align="center">Web developer</h2>
 
-- 🔭 I’m currently working at Info W Software, as **C# and .NET** Developer
+- 🔭 I’m currently working at ZDoc, as **NextJS/React and .NET** Developer
 
-- 🌱 I’m currently learning **C#, Java and Spring.**
+- 🌱 I’m currently learning **React, NextJS, Angular, C#, Java and Spring.**
 
-- 👯 I’m currently interested on **ASP** and **Ruby on Rails** projects
+- 👯 I’m currently interested on **Angular**, **Node** and **React** projects
 
 - 👨‍💻 All of my projects are available here, at [github.com/santiagvs](github.com/santiagvs).
 
 - 🛑 But also check [my Angular project](https://github.com/Squad13Porto/FrontAngularColetiva) on Squad 13, a simple university project.
 
-- 💬 You can ask me about **Linux basics**
+- 🥷 My latest project was is [here](https://github.com/Squad04) where I build a NodeJS + Express API for BlackBelt IT.
+
+- 💬 You can ask me about **Linux**, **OOP**, **Angular** and other stuff.
 
 - 📫 How to reach me **santiagvs@proton.me**
 
