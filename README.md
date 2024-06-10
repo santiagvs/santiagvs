@@ -12,7 +12,7 @@
 
 - 🛑 But also check [my Angular project](https://github.com/Squad13Porto/FrontAngularColetiva) on Squad 13, a simple university project.
 
-- 🥷 My latest project was is [here](https://github.com/Squad04) where I build a NodeJS + Express API for BlackBelt IT.
+- 🥷 My latest project is [here](https://github.com/Squad04/BlackBeltAPI) where I build a NodeJS + Express API for BlackBelt IT.
 
 - 💬 You can ask me about **Linux**, **OOP**, **Angular** and other stuff.
 
