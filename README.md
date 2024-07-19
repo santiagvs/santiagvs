@@ -4,13 +4,17 @@
 
 - 🔭 I’m currently working at ZDoc, as **NextJS/React and .NET** Developer
 
-- 🌱 I’m currently learning **React, NextJS, Angular, C#, Java and Spring.**
+- 🌱 Currently learning **React, NextJS, Angular, C#, ASP.NET**
 
-- 👯 I’m currently interested on **Angular**, **Node** and **React** projects
+- 📚 I am on my 4th semester at System Analysis and Development at **Tiradentes University**
+
+- 👯 Interested on **Angular**, **Node** and **React** projects
 
 - 👨‍💻 All of my projects are available here, at [github.com/santiagvs](github.com/santiagvs).
 
-- 🛑 But also check [my Angular project](https://github.com/Squad13Porto/FrontAngularColetiva) on Squad 13, a simple university project.
+- 🛑 I also have some other projects, like [this Angular project](https://github.com/Squad13Porto/FrontAngularColetiva) made for an architecture and civil engineering company.
+
+- 🛑 And [this API Node project](https://github.com/Squad04/BlackBeltAPI) for a Cybersecurity company, which I have made the creation and development of a back-end using Node, Express, Docker, MySQL, Joi and other tools.
 
 - 🥷 My latest project is [here](https://github.com/Squad04/BlackBeltAPI) where I build a NodeJS + Express API for BlackBelt IT.
 
