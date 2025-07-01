@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 Professional Summary
-Software Engineer/Full-Stack Developer with almost 3 years building scalable web applications. Playing with **ASP.NET**, **React**, **TypeScript**, and most recently **Elixir**. Focus on performance optimization and clean architecture.
+Software Engineer/Full-Stack Developer with almost 3 years of experience building scalable web applications. Playing with **ASP.NET**, **React**, **TypeScript**, and most recently **Elixir**. Focus on performance optimization and clean architecture.
 
 ---
 
