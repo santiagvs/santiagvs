@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Pedro 👋</h1>
-<h3 align="center">Software Engineer | .NET & React Specialist</h3>
+<h3 align="center">Software Engineer | .NET & React Developer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/lacsiliva" target="blank">
